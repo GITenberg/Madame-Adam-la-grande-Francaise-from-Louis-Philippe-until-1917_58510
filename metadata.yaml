@@ -1,5 +1,8 @@
 _repo: Madame-Adam-la-grande-Francaise-from-Louis-Philippe-until-1917_58510
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58510-h/images/cover.jpg
 creator:
   author:
     agent_name: Whale, Winifred Stephens
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '8704'
     url: http://www.gutenberg.org/2009/agents/8704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58510#Madame-Adam-la-grande-Francaise-from-Louis-Philippe-until-1917
 gutenberg_issued: '2018-12-21'
 gutenberg_type: Text
 identifiers:
